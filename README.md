@@ -18,4 +18,17 @@
 1. regression.py
 2. age_prediction_of_abalone.py
 
+## 2. 波士顿房价预测
+
+**参考资料**
+
+1. scikit-learn机器学习：常用算法原理及编程实战 示例5.5 测算房价
+
+**问题描述**
+
+使用scikit-learn自带的波士顿房价数据集来训练模型，然后用模型来测算房价。
+
+**实现代码**
+
+1. price_prediction_of_house.py
 
